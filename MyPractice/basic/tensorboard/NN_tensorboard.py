@@ -60,3 +60,11 @@ with tf.Session() as sess:
         if i % 50 == 0:
             result = sess.run(merged,feed_dict={xs:x_data,ys:y_data})
             writer.add_summary(result,i)
+
+"""
+我们使用命令来查看最后的结果：
+
+tensorboard --logdir logs
+
+然后我们就可以根据它提示的网址去访问我们的结果啦，用chrome是可以的呦。
+"""
