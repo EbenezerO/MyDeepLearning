@@ -10,3 +10,8 @@ dropout使用 &ensp;	/dropout<br>
 基本神经网络 &ensp;	/simpleNN<br>
 CNN手写数字识别 &ensp;	/number_recognation<br>
 </p>
+<p>
+2、推荐系统（/recommendation）<br>
+因子分解FM算法 &ensp;	 /1-FM-demo<br>
+
+</p>

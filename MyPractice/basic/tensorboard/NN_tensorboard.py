@@ -63,7 +63,7 @@ with tf.Session() as sess:
 """
 我们使用命令来查看最后的结果：
 
-tensorboard --logdir=F:\推荐系统\DeepLearning\MyPractice\basic\tensorboard\logs --host=127.0.0.1  需要完整路径
+tensorboard --logdir=E:\推荐系统\DeepLearning\MyPractice\basic\tensorboard\logs --host=127.0.0.1  注意检查路径 需要完整路径
 
 然后我们就可以根据它提示的网址去访问我们的结果啦，用chrome是可以的呦。或者直接在浏览器做输入 localhost:6006
 
