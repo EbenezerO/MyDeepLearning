@@ -13,8 +13,11 @@ tensorflow基于tf1.4
 <p>
 2、推荐系统（/recommendation）<br>
 引入大神文章：https://www.jianshu.com/c/e12d7195a9ff?utm_source=desktop&utm_medium=notes-included-collection <br>
+
 2.1 FM算法推导系列 可参考博客 https://blog.csdn.net/hiwallace/article/details/81333604 <br>
 2.1.1 因子分解FM算法 &ensp;	 /1-FM-demo<br>
 2.1.2 类别Field-aware-FM算法 &ensp;	 /2-FFM-demo<br>
 2.1.3 Deep Neural Network + FFM &ensp;	 /3-DeepFM-demo<br>  
+
+2.2  Deep&Cross Network &ensp;	 /2-DCN-demo<br> 
 </p>
