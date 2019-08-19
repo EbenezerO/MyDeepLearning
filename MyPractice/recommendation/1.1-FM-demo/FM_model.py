@@ -34,7 +34,7 @@ def vectorize_dic(dic,ix=None,p=None,n=0,g=0):#构建稀疏矩阵
     return csr.csr_matrix((data[ixx],(row_ix[ixx],col_ix[ixx])),shape=(n,p)),ix#构建稀疏矩阵
 
 
-def batcher(X_, y_=None, batch_size=-1):#进行batch划分
+def batcher(X_, y_=None, batch_size=-1):#进行mini-batch划分
     n_samples = X_.shape[0]
 
     if batch_size == -1:
