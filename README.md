@@ -25,4 +25,5 @@ pycharm 运行是将项目demo设置为 Sources Root<br>
 2.2  Deep&Cross Network（并行） &ensp;	 /2-DCN-demo<br> 
 2.3  Product-based Neural Network（串行） &ensp;	 /3-PNN-demo<br>
 2.4  Neural Factorization Machine（串行）  &ensp;	 /4-NFM-demo<br>
+2.5  Attention Factorization Machine（串行）  &ensp;	 /5-FM-demo<br>A
 </p>
